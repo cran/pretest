@@ -1,0 +1,14 @@
+e45f6b4b31c56259c662e953c8e0e4c0 *DESCRIPTION
+f4591d76228559b2aee0a20c5172fe72 *NAMESPACE
+3170274a3d3c3dea8fc8ebc81f5dff13 *R/Nested_Stats_S0.R
+5fbaffccc940368874786fb5c345346c *R/Nested_Stats_Sbar.R
+aad621e09a48f126b778755906d4975c *R/dm_cw.R
+cb2b413b8363519ce92156587d934384 *R/lrvar.R
+5c7caf6cd75e8a9b0859fdf0bf32e879 *R/recursivehstep.R
+d9081755da96396fc15b4653ec71939d *R/recursivehstep2.R
+68dfe7e880a8377a07eb8b064a6f3d5a *man/Nested_Stats_S0.Rd
+ddfb64a301341ecde223a5efa97a5f78 *man/Nested_Stats_Sbar.Rd
+ea99a8f4c1a6130880338f0ccbbf1170 *man/dm_cw.Rd
+09d9a3f594113c940d0ee4ddc91f893d *man/lr_var.Rd
+0910413dd1758a238afb878405dfa212 *man/recursive_hstep_fast.Rd
+f2bfb9c750afd762b9cebdf39e1feefc *man/recursive_hstep_slow.Rd
